@@ -1,0 +1,16 @@
+/********gogole doc*******
+
+https://docs.google.com/spreadsheets/d/13U-qUTWgDPGW5m4rqIJRb3oUrzMimsJewaEcdkUMQKI/edit?usp=sharing
+
+
+
+?**********putty********/
+
+https://www.routerhosting.com/knowledge-base/how-to-install-cpanel-whm-on-centos-8-step-by-step-visual-guide/
+
+hostnamectl set-hostname apptrack.rathinfotech.com
+
+Node name : ranktrack-may
+IP : 164.52.208.152
+Username : root
+Password : X6th@5w4w

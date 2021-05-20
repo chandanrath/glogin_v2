@@ -1,0 +1,83 @@
+[29-Aug-2016 12:06:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:07:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:07:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:15:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:15:58 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:16:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:17:40 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 12:19:00 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/innovac/public_html/ads/scripts/login_script.php on line 40
+[29-Aug-2016 17:56:04 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 17:56:04 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 17:56:43 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 17:56:43 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 17:56:43 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 17:57:19 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 17:57:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 17:57:19 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 17:58:19 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 17:58:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 17:58:19 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 17:59:00 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 17:59:00 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 17:59:00 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:00:37 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:00:37 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:00:37 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:02:59 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:02:59 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:02:59 Asia/Calcutta] PHP Warning:  include_once(classes/Class_encrypt.php): failed to open stream: No such file or directory in /home/innovac/public_html/ads/scripts/login_script.php on line 14
+[29-Aug-2016 18:02:59 Asia/Calcutta] PHP Warning:  include_once(): Failed opening 'classes/Class_encrypt.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/innovac/public_html/ads/scripts/login_script.php on line 14
+[29-Aug-2016 18:02:59 Asia/Calcutta] PHP Fatal error:  Class 'Encryption' not found in /home/innovac/public_html/ads/scripts/login_script.php on line 17
+[29-Aug-2016 18:03:39 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:03:39 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:03:39 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:05:37 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:05:37 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:05:37 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:05:42 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:05:42 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:05:42 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:06:08 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:06:08 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:06:08 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:06:38 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:06:38 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:06:38 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:08:29 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:08:29 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:08:29 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:08:39 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:08:39 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:08:39 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 25
+[29-Aug-2016 18:10:58 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:10:58 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:10:58 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 27
+[29-Aug-2016 18:14:12 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:14:12 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:14:12 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 27
+[29-Aug-2016 18:14:55 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:14:55 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:14:55 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 27
+[29-Aug-2016 18:15:56 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:15:56 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:15:56 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 27
+[29-Aug-2016 18:17:16 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:17:16 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:17:16 Asia/Calcutta] PHP Warning:  mcrypt_encrypt(): Key of size 13 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/innovac/public_html/ads/classes/Class_encrypt.php on line 27
+[29-Aug-2016 18:19:00 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innovac/public_html/ads/includes/connect.php on line 11
+[29-Aug-2016 18:19:00 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/innovac/public_html/ads/classes/Class_Database.php on line 14
+[29-Aug-2016 18:19:00 Asia/Calcutta] PHP Fatal error:  Class 'Encryption' not found in /home/innovac/public_html/ads/scripts/login_script.php on line 17
+[06-Sep-2016 05:44:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 05:45:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 05:46:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 05:48:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 05:49:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 05:49:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 05:54:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 06:06:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/innovac/public_html/ads/scripts/getCheck.php on line 48
+[06-Sep-2016 14:52:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/innovac/public_html/ads/scripts/insert_advertiser.php on line 166
+[06-Sep-2016 14:54:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/innovac/public_html/ads/scripts/insert_advertiser.php on line 66
+[06-Sep-2016 14:55:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/innovac/public_html/ads/scripts/insert_advertiser.php on line 66
+[06-Sep-2016 14:57:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/innovac/public_html/ads/scripts/insert_advertiser.php on line 137
+[06-Sep-2016 16:49:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/innovac/public_html/ads/scripts/insert_slots.php on line 19
+[20-Sep-2016 20:09:19 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/innovac/public_html/ads/scripts/insert_banner.php on line 201

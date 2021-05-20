@@ -1,0 +1,42 @@
+Client ID	
+768751434021-b9e25ek7ulaiekk5op6mg9cknq9oka4l.apps.googleusercontent.com
+
+Client secret
+	
+v53cUO_tIw42mDIIiaKjKvh2
+
+
+
+
+URL: https://139.59.29.204:8082/
+
+
+db name: zcjadpngxv
+
+username: zcjadpngxv
+
+password: Mt9dADm6u2
+
+FTP:
+IP: sftp://139.59.29.204
+
+
+username: chandan
+
+password: $chandan
+
+application folder: googlelogin
+
+url: http://phpstack-58047-488126.cloudwaysapps.com/
+
+1. Email id
+
+2. Date
+
+3. Time
+
+4. IP address
+
+5. User Agent
+
+6. Success Flag (Yes/No)

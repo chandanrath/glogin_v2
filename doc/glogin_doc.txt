@@ -1,0 +1,570 @@
+/*********git hub**************/
+
+https://github.com/chandanrath/glogin_v2.git
+
+/* working google sheet//
+https://docs.google.com/spreadsheets/d/1q9F7YpDdCzr7e4SCLb0tBe7zw__ixniTEcmnqB3JAWU/edit?ts=606be27d#gid=0
+
+rextonsteel : cj1xudHQ&wCH
+
+fXr71gd2dJE}
+
+pipingmart
+
+,Af\mK(xF~ZE!TY2-
+
+
+https://165-227-208-188.cprapid.com:2087
+root
+chandan123
+
+/********crontab using terminal***********/
+
+1) open terminal
+2) write the file path and time
+3) ctrl+o then Enter key 
+4) Ctrl+x
+
+
+/*************backblaze login**************/
+
+back@123blaze
+
+vandanapawar9797@gmail.com
+
+info@rathinfotech.com
+
+
+
+Server : hfserver.rathinfotech.com:2083
+
+apprathinfotech
+
+@BaXf&-W0QPS
+
+3c81ja
+
+
+
+
+
+/*********cloud rank*******************/
+
+username:  info@rathinfotech.com
+passwd : digiocean
+
+domai : cloudways.com
+
+/************Git Hub for rathapp**********************/
+
+https://github.com/chandanrath/rathapp.git
+
+
+
+/***************MSG91 login **********************/
+
+username : rathinfotech@gmail.com
+passwd ;  Pass@1234
+
+/*****************Data base*********************/
+
+https://phpstack-182078-629151.cloudwaysapps.com:8082/
+
+db name: fkpcmgrymq
+
+username: fkpcmgrymq
+
+password: SE79j69Pgq
+
+forty-five thousand, three hundred and ninety-three
+
+/*********kotal Grop*********/
+18002664545
+CARE@KOTAK.COM
+
+Complain no : 979650 ,,997169
+
+SELECT * FROM `ri_company_website` where cmpid=8
+and DATE_FORMAT(assign_date, '%Y-%m-%d')=DATE_FORMAT('2019-05-02','%Y-%m-%d')
+
+
+/**************for captcha****************?
+
+https://www.google.com/recaptcha/admin#site/344822176?setup
+
+FTP
+
+ip: 159.89.154.164
+
+
+db link: https://159.89.154.164:8082/
+
+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
+
+
+sftp details
+
+:
+username: rath
+
+password: chandan (edited)
+
+/***************************/
+
+http://app.rathinfotech.com/fkpcmgrymq/mailsendtoupdatetask.php
+
+/****************duplicate rocord*********************/
+
+SELECT id,url, status, COUNT(url) FROM  ri_website
+GROUP BY url HAVING COUNT(url) > 1;
+
+select student_name,student_id ,count(*) c from student group by student_id,student_name having c>1;
+
+
+/***********Cron For Update passwrd Daily ******************/
+
+http://app.rathinfotech.com/updatedomainpswd.php
+
+/***********Reseller club**********************/
+
+https://manage.resellerclub.com/kb/node/751
+https://manage.resellerclub.com/kb/node/752
+https://manage.resellerclub.com/kb/node/776
+
+/*************Get Domain OrderID**********************/
+
+https://manage.resellerclub.com/kb/answer/1755
+
+/*************Modify name server**********************/
+
+https://22by4.myorderbox.com/kb/node/776
+
+https://22by4.myorderbox.com/kb/node/781
+
+/*************whois API******************/
+
+API Key: at_GtwH8Ss4vynMZicYr6X0eMgG4xkTw
+
+http://api.freedomainapi.com/?domain=freedomainapi.com&r=whois&apikey=at_GtwH8Ss4vynMZicYr6X0eMgG4xkTw
+
+https://www.whoisxmlapi.com/whoisserver/WhoisService?apiKey=at_GtwH8Ss4vynMZicYr6X0eMgG4xkTw&outputFormat=json&domainName=
+
+http://phpstack-182078-629151.cloudwaysapps.com/scripts/login_script.php?code=4/cgAtB2kq8r8Q2Avtw1M7xGX8xU7EWzkR0nP43v3WeVLjxESg6CoHDwSo4nvTPIqwMwQlaRVQak_ze5EMOGvAswA&scope=https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email
+
+
+https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=768751434021-b9e25ek7ulaiekk5op6mg9cknq9oka4l.apps.googleusercontent.com&as=IUN8ClVXeuzyxL3HCJ3Mrw&destination=http%3A%2F%2Fphpstack-182078-629151.cloudwaysapps.com&approval_state=!ChRybmdSQUtsZ3FqSzNYcjNLSXVHQxIfazU4TV9sdUtRMElSOEhuU1JuY2dubXFPNS1rcVpSWQ%E2%88%99ANKMe1QAAAAAW7xfezXf_TAnbTO-m1AXD8hUNGr0KPYG&oauthgdpr=1&xsrfsig=AHgIfE8vWCSRZHC4K6JyTb2IjqIg934IaA&flowName=GeneralOAuthFlow
+
+
+
+
+https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=768751434021-b9e25ek7ulaiekk5op6mg9cknq9oka4l.apps.googleusercontent.com&as=LQ4fZ52_xiwL0W7uQCeRQw&destination=http%3A%2F%2Flocalhost&approval_state=!ChRMTWlkdWFsWmhfTUJydmpneExpShIfRXpjRHV0NVVuSllVOEhuU1JuY2dubXFldk80cVpSWQ%E2%88%99ANKMe1QAAAAAW7xfjy8L098vtiebVXfgT7JUIQhMXJT3&oauthgdpr=1&xsrfsig=AHgIfE9uRhiFA8tK4X19eE8BWXPnA5vaLw&flowName=GeneralOAuthFlow
+
+
+1st Floor, Gala No 6 & 7, Laxmi Baug Estate Co Operative Housing Society, Phadke Road, Dombivli East, Thane - 421201
+
+INSERT INTO `cwukmvykth`.`tbl_grades` (`gradesname`, `gradescode`, `gradestitle`, `keywords`) VALUES ('S31803\r\n', 'S31803\r\n', 'Duplex Steel S31803 180 Degree Elbow | Manufacturer, Supplier & Exporter | Piping Mart\r\n', 'ANSI B16.9 S31803 180° Large Diameter Elbow, Duplex Stainless Steel S31803 180 Deg Elbow, Pipe S31803 180 Degree Elbow, ASME B16.9 S31803 180 Degree Elbow Supplier, ASME SA815 S31803 180 Deg Elbow Price, Duplex Stainless Steel S31803 180° Seamless Elbow, ASTM A815 S31803 180° Elbow Manufacturer, Duplex Steel S31803 180 Deg Elbow, Duplex Steel S31803 180 Deg Welded Elbow, butt weld S31803 180 Deg Elbow\r\n');
+
+
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/round-pipe/%';
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/welded-pipe/%';
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/erw-pipe/%';
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/efw-pipe/%';
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/oval-pipe/%';
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/square-pipe/%';
+
+
+delete from tbl_product_search where prodlink like'%products/details/pipes/rectangle-pipe/%';
+
+@chandan89123230
+
+
+/****************************************/
+
+Host : seo.rathinfotech.com:2087
+user: root
+token:  K66RS20L04ZEBZVU4W5ME4V3DBEGQHW6
+
+
+/***********testing domian for reseller *****************/
+
+kaviroverseas.com
+
+dineshtube-india.com
+
+solitaire-overseas.com
+
+
+
+
+/*******template*********/
+
+https://www.postermywall.com/index.php/posterbuilder/copy/0c8109e5c5fdc13bf1c3279c122652df
+
+
+/************Policy tata AIG Xis HL (Reimbursement)************/
+POl No : 236243166
+
+crfct no: 8124
+
+toll free: 18002667780
+
+
+SELECT id,updatepass,domain FROM `ri_domain` where updatepass=0
+
+http://app.rathinfotech.com/fkpcmgrymq/updatedomainpswd.php
+http://app.rathinfotech.com/fkpcmgrymq/mailsendfortodolist.php
+http://app.rathinfotech.com/fkpcmgrymq/mailsendtoupdatetask.php
+
+
+dhfl : 02221747509
+dhfl complin:   ccdis02098507
+
+
+user ; sukkur
+passwd :  LlncKW&7Gl5!
+
+
+
+
+stnd chrt b : 5546 2329 2011 1159
+
+/**************laravel*******************/
+
+https://www.tutorialspoint.com/laravel/laravel_installation.htm
+
+http://webdevzoom.com/how-to-install-composer-on-windows/
+
+
+https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji
+
+gitbash
+
+
+https://www.google.com/recaptcha/api/siteverify?secret=6LdtbpEUAAAAAPZCNpQ67Wp3qOr-wFc1eox-uPRS&response=6LdtbpEUAAAAABi73gv8x_JIff_0vmmtVO9lsoz7
+
+hybrid,native,progressive
+
+rbl bank
+abhishek aacharya2609
+
+facebook:
+
+https://appdividend.com/2017/07/12/laravel-facebook-login/
+
+/***********passwrd*********************/
+
+'UL_jP4aZN6rd','9ChjdvFM0wTi','8xzADaJsKmd2','R6PBCTxLs5_n','34dbPXfH7GmW','rx8uyqeQAkmj','9QY1U2fhd58T','8CjD9XYN4ZKE',
+'PzLDsCTrjEGq','Med5hNruvTOV','VFkci_lIL3yv','wAXDcv_G1enE','pg8yhEJtiZB3','DFTKpNswHcJC','3jm2B1PaTQHn','EwA9rHIZ7CyR',
+'9VRTrSvMJcZx','XUvhLwo4IK6i','EgwXZCW1_fY9','E4FUPMvyTQ70','no_WGZF06w3X','4bhDBA168HKW','K9OwqRVM52zB','L2S7mVy_agk1',
+'o27LIr8Ysfgj','dmhnDej9ZzEF','IMQU7DXanK9z','aNmeJHQBXtfG','QZmJEsoR_H7w','q8mlwEpBDNjL','fJyBrDYqtse9','q13LS7cnDkNC',
+'@5hIbvkrM93a','@M6vWVOxCED_','GHRmD1X_jSZ9','wbQl)F%hsaS_','eLfnNi7Hvmou','C_n7yf8KLzis','gm0tsP8COclo','PUJB3VOmZ4cd',
+'sTldy8B53IqN','t7PnQqYTVJkO','pwCglI1_dMec','Hm@zt_QpjvY0','s5jeoWIh8Qwd','BlxkkVaZgtsr','jeONRMKLua9k','FXxOWIVHsPTk',
+'@5DyQntUq9h4','kxzUnfZYENaH','t7PnQqYTVJkO','pwCglI1_dMec','Hm@zt_QpjvY0','s5jeoWIh8Qwd','eLfnNi7Hvmou'
+
+
+
+/*************lic offc*************/
+
+89-A, Anand Est. 1st Flr., Above PN Bank, Sane Guruji Marg, Byculla
+
+
+/**********new policy*************/
+life@policybazaar.com
+
+18004197717
+nisad and fatima 
+empcode: pw16387
+
+02262327777 rblcc
+
+
+aadhar Update Request Number (URN)
+
+0000/00574/67493
+
+
+info@dojahantrading.com
+6EC($XORYCPM
+
+9819254139 : dipti ghandhi
+
+ rrb app: 3240110292 
+
+
+axis cc:  52053084
+
+/**********ICICI PL offc****************************/
+
+icici bank ltd
+
+shop no -9
+grd flr
+jinja cop society
+opp damani estate
+naupada
+tinhat naka
+400604
+
+
+
+vasant auto mobile
+guru govind house
+opp purnima theater
+murbad road
+kalyan west
+
+
+
+
+p78
+midc resci 
+next to mamta hostp
+dombi east
+
+
+/**************kencotube*****************/
+
+site : 6LdOzKYUAAAAAEaBC99u5zeQ_rmGxDAf6Lz582EE
+
+secrate : 6LdOzKYUAAAAAF8E5x70xgHEyLIA6lsIEMD1PGvi
+
+/*****************recaptcha site********************/
+
+https://www.google.com/recaptcha/admin#site/344822176?setup
+
+
+
+paytm
+FLZQMLWXZFMC4W
+02512861550 
+
+sbi bank:  10635712978
+
+<span class='error-message' id='submit-error'></span>
+
+
+/************chk users submit log**************************/
+
+SELECT cw.id,cw.cmpid,cw.webid,cw.userid,cw.`status`,cw.assigned,w.url,c.cname,u.name FROM `ri_company_website` cw
+left join ri_website w on(w.id=cw.webid) AND w.`status`=1
+LEFT JOIN ri_company c on(c.cmpid=cw.cmpid) AND c.`status`=1
+LEFT JOIN ri_users u on(u.id=cw.userid) AND u.`status`=1
+where  cw.status=1 and cw.stage=2 and cw.userid=7
+
+/**************captcha*********************/
+https://www.google.com/recaptcha/admin#site/344822176?setup
+
+/****************WHM***********************/
+
+api:  https://rathinfotech.com:2087/cpsess7650235861/
+
+
+SELECT count(*)
+FROM `ri_company_website`
+where website='israel.trade.gov.pl/en/' and userid<>0
+and created_date between date_format('2020-01-01 10:54:19','%Y-%m-%d') and date_format('2020-01-31 00:00:00','%Y-%m-%d')
+
+/*********assign task***********/
+SELECT id,cmpid from ri_company_website where status = 1 and stage=0 and assigned=0 and userid='0' and cmpid='1' ORDER BY RAND() limit 0,1
+
+
+amisha  :  fZ(2L]}kTtZx
+
+
+/******ne domain register  *******/
+
+// issue on website//
+https://httpapi.com/api/domains/register.xml
+
+16638002 // rbl cancel card
+
+
+
+
+0380 999648647 : facebook hacker
+
+
+uH4AnGxTUKvB
+
+/*************cpanel api***************/
+
+https://shellcreeper.com/move-files-server-to-server-using-simple-php/
+
+https://forums.cpanel.net/threads/fileman-fileop-function.634057/
+
+/**********daily wise submission report******************/
+
+SELECT  userid,date_format(complete_date,'%Y-%m-%d') subDate, COUNT(DISTINCT id) totalCOunt
+FROM    ri_company_website 
+where date_format(complete_date,'%Y-%m-%d') between '2020-02-29' and '2020-04-10' and userid=14 and stage NOT IN(0,1)
+GROUP   BY  subDate
+
+
+/**************assign submission form**********************/
+
+SELECT id,cmpid 
+from ri_company_website 
+where status = 1 and stage=0 
+and assigned=0 and userid='0' 
+AND DATE_FORMAT(assign_date,'%Y-%m-%d')='2020-04-20'
+and cmpid IN(SELECT cmpid FROM ri_company WHERE STATUS=1)
+
+
+
+
+/************submission report  count***************/
+
+SELECT  c.cmpname,c.company_url,cw.website,cw.surl,cw.surlstatus,cw.stage,cw.comments,cw.assign_date FROM `ri_company_website` cw join ri_company c on(cw.cmpid=c.cmpid) where cw.status=1 and date_format(cw.assign_date,'%Y-%m-%d') between '2020-05-01' and '2020-05-31' ORDER BY cw.id DESC
+
+
+SELECT c.cmpid,c.cmpname, 
+(SELECT count(id) FROM `ri_company_website` cw WHERE status=1 and c.cmpid=cw.cmpid and 
+date_format(assign_date,'%Y-%m-%d')= '2020-08-18' ) as Aug 
+FROM `ri_company` c WHERE c.status=1
+
+/*******chk for cpmny count******/
+SELECT c.cmpid,c.cmpname, c.submit_date,
+(SELECT count(id) FROM `ri_company_website` cw WHERE status=1 
+and c.cmpid=cw.cmpid and assigned=0 AND userid=0) cmpcnt
+FROM `ri_company` c WHERE c.status=1
+
+
+
+SELECT c.cmpid,c.cmpname,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-05-01' and '2020-05-31' ) as may,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-06-01' and '2020-06-31' ) as june,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-07-01' and '2020-07-31' ) as july
+FROM `ri_company` c
+WHERE c.status=1
+
+
+
+select distinct(c.cmpid) cmpid,
+                (SELECT count(cw.id) cmpcount FROM `ri_company_website` cw
+                WHERE cw.status=1 and c.cmpid=cw.cmpid
+                and date_format(cw.assign_date,'%Y-%m-%d') between '2020-09-01' and '2020-09-30') totcnt
+                from ri_company_website c where c.status=1 and c.assigned<>0 order by cmpid asc
+
+// for aug//
+SELECT c.cmpid,c.cmpname, (SELECT count(id) FROM `ri_company_website` cw WHERE status=1 and c.cmpid=cw.cmpid and date_format(assign_date,'%Y-%m-%d') between '2020-08-01' and '2020-08-31' ) as Aug FROM `ri_company` c WHERE c.status=1
+
+// for assign date today//
+
+SELECT * FROM `ri_company_website` where date_format(assign_date,'%Y-%m-%d')='2020-08-17' ORDER BY `id` DESC
+
+
+
+
+SELECT cw.cmpid,c.cmpname,cw.website,cw.surl,cw.surlstatus,cw.stage,cw.comments ,cw.assign_date
+FROM `ri_company_website` cw join ri_company c on(cw.cmpid=c.cmpid) where cw.status=1 and date_format(cw.assign_date,'%Y-%m-%d') = '2020-08-09' and cw.cmpid=1
+ORDER BY cw.id DESC
+
+/***********everyday chk submission*******************/
+
+SELECT c.cmpid,c.cmpname, 
+(SELECT count(id) FROM `ri_company_website` cw WHERE status=1 and c.cmpid=cw.cmpid and 
+date_format(assign_date,'%Y-%m-%d')= '2020-09-07' ) as totcnt
+FROM `ri_company` c WHERE c.status=1
+
+/*******userwise count****************/
+select distinct(userid) uid, (SELECT count(cmpid) FROM `ri_company_website` WHERE status=1 and userid=uid and date_format(assign_date,'%Y-%m-%d')= '2020-08-20') as submitcnt from ri_company_website where status=1 and date_format(assign_date,'%Y-%m-%d')= '2020-08-20'
+
+
+w9qK1QoO0YRE
+SELECT c.cmpid,c.cmpname, 
+(SELECT count(id) FROM `ri_company_website` cw WHERE status=1 and c.cmpid=cw.cmpid and assigned in(1,2,3) and date_format(assign_date,'%Y-%m-%d') between '2020-08-24' and '2020-08-29' ) as Aug 
+FROM `ri_company` c WHERE c.status=1
+
+Ggc[SCpLgeJB
+
+?*************SBI log**********************/
+
+Chandansbi87 / Chandan@1987
+
+ac: 10635712978
+
+
+SELECT domain ,count(*) as cnt FROM `tbl_keyword_details`
+where position<=10 GROUP BY `domain` order by cnt DESC
+
+
+
+SELECT c.cmpid,c.cmpname,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-01-01' and '2020-01-31' ) as Jan,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-02-01' and '2020-02-29' ) as feb,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-03-01' and '2020-03-31' ) as mar,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-04-01' and '2020-04-30' ) as apr,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-05-01' and '2020-05-31' ) as may,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-06-01' and '2020-06-30' ) as jun,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-07-01' and '2020-07-31' ) as july,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-08-01' and '2020-08-31' ) as aug,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-09-01' and '2020-09-30' ) as sept,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-10-01' and '2020-10-31' ) as oct,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-11-01' and '2020-11-30' ) as nov,
+(SELECT count(id) FROM `ri_company_website` cw
+WHERE status=1 and c.cmpid=cw.cmpid 
+and  date_format(assign_date,'%Y-%m-%d') between '2020-12-01' and '2020-12-31' ) as dece
+FROM `ri_company` c
+WHERE c.status=1
+
+/*********sbi*********/
+
+Chandansbi87
+
+
+SELECT cc.id,cc.product,p.prodname as product_name,cc.material,m.materialname as material_name,cc.subproduct,sb.opname as subproduct_name,cc.grades,cc.astm,cc.comp_text 
+FROM `ri_chemical_comp` cc 
+join ri_product p on(p.id=cc.product)
+join ri_material m on(m.id=cc.material)
+join ri_subproduct sb on(sb.id=cc.subproduct)
+where cc.status=1
+order by cc.id desc
+
+
+/******lic calculator********/
+
+https://www.hscripts.com/scripts/JavaScript/insurance-calculator-script.php
+
+
+1112896194620
+
+
+sbi  1113269677837
+
+contactchange@sbicard.com
+
+1113271652168  : reversal
